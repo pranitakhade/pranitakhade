@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranitakhade&label=Profile%20views&color=0e75b6&style=flat" alt="pranitakhade" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science, ML & AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pranitakhade](https://github.com/pranitakhade)
+
+- 💬 Ask me about **Python, MySQL, Power BI, Excel, ML**
 
 - 📫 How to reach me **pranitakhade65@gmail.com**
 
