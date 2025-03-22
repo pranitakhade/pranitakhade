@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranitakhade&label=Profile%20views&color=0e75b6&style=flat" alt="pranitakhade" /> </p>
 
-- 🌱 I’m currently learning **Data Science, ML & AI**
+- 🌱 I’m currently learning **Python, SQL, Power BI, Alteryx, Excel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pranitakhade](https://github.com/pranitakhade)
 
