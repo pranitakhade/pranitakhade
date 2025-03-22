@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pranitakhade](https://github.com/pranitakhade)
 
-- 💬 Ask me about **Python, MySQL, Power BI, Excel, ML**
+- 💬 Ask me about **Python, MySQL, Power BI, Excel**
 
 - 📫 How to reach me **pranitakhade65@gmail.com**
 
